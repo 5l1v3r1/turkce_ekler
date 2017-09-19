@@ -1,0 +1,12 @@
+# ee : eylem -> eylem ,
+# en : eylem -> nesne ,
+# ne : nesne -> eylem ,
+# nn : nesne -> nesne
+
+ak,ek 				- en # binek,uçak,yatak,kaçak,atak,durak
+ık,ik,uk,ük 		- en # kaçık,uçuk,
+si,sı 				- nn # erkeksi, kadınsı, 
+casına,cesine 		- en # uçarcasına, gülercesine
+sal,sel 			- nn # kumsal,kutsal,kurumsal
+   
+
